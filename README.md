@@ -1,0 +1,1 @@
+Simple Python Face Recognition Script using OpenCV
